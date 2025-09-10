@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page 👋
 
-🎓 I am an engineer with degrees from Mines Saint-Étienne and Université Paris Dauphine - PSL. Currently, I am specializing in AI for healthcare, pursuing a research master's degree in ST4H (Sciences and Technology for Health) at Université PSL.
+🎓 I am an engineer graduated from Mines Saint-Étienne and Université Paris Dauphine - PSL. Currently, I am specializing in AI for healthcare, pursuing a research master's degree in ST4H (Sciences and Technology for Health) at Université PSL.
 
 💡 I have a strong interest in AI applied to healthcare, with a particular passion for generative AI, cheminformatics, and drug design. My goal is to use these technologies to create a meaningful impact in the healthcare sector.
 
