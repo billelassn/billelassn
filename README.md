@@ -6,7 +6,7 @@
 
 🏆 I enjoy taking on data science challenges. You can check out my projects, including my participation in the PIK3CA mutation detection challenge with Owkin.
 
-<p align="center"> <a href="https://billelassn.github.io/Web-site/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Blog-1DA1F2?style=for-the-badge" alt="Visit My Blog"> </a> <a href="https://www.linkedin.com/in/billel-aissani-84034a1b9" target="_blank"> <img src="https://img.shields.io/badge/View%20My%20Last%20Project-28A745?style=for-the-badge" alt="View My Last Project"> </a> </p>
+<p align="center"> <a href="https://billelassn.github.io/Web-site/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Blog-1DA1F2?style=for-the-badge" alt="Visit My Blog"> </a> <a href="https://github.com/billelassn/Detection-of-the-PIK3CA-mutation-in-breast-cancer" target="_blank"> <img src="https://img.shields.io/badge/View%20My%20Last%20Project-28A745?style=for-the-badge" alt="View My Last Project"> </a> </p>
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
