@@ -6,8 +6,6 @@
 
 🏆 I enjoy taking on data science challenges. You can check out my projects, including my participation in the PIK3CA mutation detection challenge with Owkin.
 
-[![Visit my blog](https://img.shields.io/badge/Visit_my_blog-228B22?style=for-the-badge&logoColor=white&width=150)](https://billelassn.github.io/Web-site/)      [![View my last project](https://img.shields.io/badge/My_last_project-FF0000?style=for-the-badge&logoColor=white&width=150)](https://www.linkedin.com/in/billel-aissani-84034a1b9)
-
 <p align="center"> <a href="https://billelassn.github.io/Web-site/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Blog-1DA1F2?style=for-the-badge" alt="Visit My Blog"> </a> <a href="https://www.linkedin.com/in/billel-aissani-84034a1b9" target="_blank"> <img src="https://img.shields.io/badge/View%20My%20Last%20Project-28A745?style=for-the-badge" alt="View My Last Project"> </a> </p>
 
 <!-- 
