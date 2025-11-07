@@ -15,7 +15,7 @@ This analysis provides a critical perspective on:
 * **Transfer Learning Limits:** The necessity of fine-tuning ChemBERT for specific toxicity tasks, despite showing specialized gains.
 * **Identified Limitations:** Practical constraints related to GPU access and dataset size.
 
-➡️ **View the Complete Individual Report (PDF):** [Report\_Billel\_Aissani.pdf](https://github.com/geekela/Chemoinformatics_project/blob/main/Report/Report_Billel_Aissani.pdf)
+➡️ **View the Complete Individual Report (PDF):** (https://github.com/geekela/Chemoinformatics_project/blob/main/Report/Report_Billel_Aissani.pdf)
 
 ---
 
