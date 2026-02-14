@@ -4,7 +4,7 @@
 
 I am an engineer graduated from Mines Saint-Étienne and Université Paris Dauphine - PSL, currently specializing in AI for healthcare within the **Health Sciences & Technologies (ST4H)** Research Master's at Université PSL.
 
-Starting March 2025, I will join the **Genome Institute of Singapore (A*STAR)** as a Visiting Research Student in the **Computational Biology Lab of Prof. Mile Šikić**.
+Starting March 2025, I will join the **Genome Institute of Singapore (A*STAR)** as a Visiting Research Student in the **AI in Genomics Lab of Prof. Mile Šikić**.
 
 ### Research Focus
 * **Generative Biology:** Discrete Diffusion Models, Protein-Conditioned mRNA Design.
@@ -44,7 +44,7 @@ A comprehensive evaluation of Deep Learning limitations on small chemical datase
 ---
 
 
-<p align="center"> <a href="https://billelassn.github.io/Web-site/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Blog-1DA1F2?style=for-the-badge" alt="Visit My Blog"> </a> <a href="https://github.com/geekela/Chemoinformatics_project" target="_blank"> <img src="https://img.shields.io/badge/View%20My%20Last%20Project-28A745?style=for-the-badge" alt="View My Last Project"> </a> </p>
+<p align="center"> <a href="https://billelassn.github.io/Web-site/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Blog-1DA1F2?style=for-the-badge" alt="Visit My Blog"> </a> <a href="https://github.com/billelassn/ehr-time-aware-transformer" target="_blank"> <img src="https://img.shields.io/badge/View%20My%20Last%20Project-28A745?style=for-the-badge" alt="View My Last Project"> </a> </p>
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
