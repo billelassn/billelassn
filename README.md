@@ -43,14 +43,6 @@ A comprehensive evaluation of Deep Learning limitations on small chemical datase
 
 ---
 
-### Featured Project: Critical Analysis in Drug Design
-
-A comprehensive, in-depth evaluation of the project's results, methodology trade-offs, and deep learning limitations (MLP, GNN, ChemBERT) on the BACE and SIDER datasets is available in the individual report.
-
-This analysis provides a critical perspective on:
-* **Feature Superiority:** Why classic models with strong feature engineering surpass complex Deep Learning on small datasets (SVR vs. MLP on BACE).
-* **Transfer Learning Limits:** The necessity of fine-tuning ChemBERT for specific toxicity tasks, despite showing specialized gains.
-* **Identified Limitations:** Practical constraints related to GPU access and dataset size.
 
 <p align="center"> <a href="https://billelassn.github.io/Web-site/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Blog-1DA1F2?style=for-the-badge" alt="Visit My Blog"> </a> <a href="https://github.com/geekela/Chemoinformatics_project" target="_blank"> <img src="https://img.shields.io/badge/View%20My%20Last%20Project-28A745?style=for-the-badge" alt="View My Last Project"> </a> </p>
 
