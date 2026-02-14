@@ -1,8 +1,45 @@
-## Welcome to my GitHub page 👋
+# Welcome to my GitHub page
 
-🎓 I am an engineer graduated from Mines Saint-Étienne and Université Paris Dauphine - PSL. Currently, I am specializing in AI for healthcare, pursuing a research master's degree in ST4H (Sciences and Technology for Health) at Université PSL.
+**M.Eng (Mines Saint-Étienne) | M.Sc. Candidate (Université PSL)**
 
-💡 I have a strong interest in AI applied to healthcare, with a particular passion for generative AI, cheminformatics, and drug design. My goal is to use these technologies to create a meaningful impact in the healthcare sector.
+I am an engineer graduated from Mines Saint-Étienne and Université Paris Dauphine - PSL, currently specializing in AI for healthcare within the **Health Sciences & Technologies (ST4H)** Research Master's at Université PSL.
+
+Starting March 2025, I will join the **Genome Institute of Singapore (A*STAR)** as a Visiting Research Student in the **Computational Biology Lab of Prof. Mile Šikić**.
+
+### Research Focus
+* **Generative Biology:** Discrete Diffusion Models, Protein-Conditioned mRNA Design.
+* **Clinical Sequence Modeling:** Transformers for Electronic Health Records (EHR) and time-series analysis.
+* **Chemoinformatics:** Geometric Deep Learning, Bayesian Optimization, and Drug Design.
+
+---
+
+### Upcoming Research (A*STAR)
+**Prot2RNA: Protein-Conditioned mRNA Design**
+*Supervisors: Ivona Martinovic & Prof. Mile Šikić*
+
+Addressing the synonymous codon optimization challenge to improve mRNA stability and translation efficiency using **Generative AI (Discrete Diffusion)**.
+* **Objective:** Design mRNA sequences that respect both target protein constraints and biological stability metrics (thermodynamics, secondary structure).
+* **Focus:** Moving beyond naive frequency matching by incorporating physics-based guidance into the diffusion process.
+
+---
+
+### Selected Projects
+
+#### 🏥 [Dynamic Event Trajectory Modeling for Early Sepsis Prediction](https://github.com/billelassn/ehr-time-aware-transformer)
+**Keywords:** *MIMIC-IV, Time-Aware Transformer, Interpretability*
+* Developed a Transformer-based architecture to predict sepsis onset from irregular clinical time-series.
+* Achieved **0.84 AUROC**, matching LSTM baselines while providing **interpretable Attention Maps** to visualize shifts in clinical importance (e.g., from routine care to critical biomarkers).
+
+#### 💊 [Critical Analysis in Drug Design & Bayesian Optimization](https://github.com/geekela/Chemoinformatics_project/blob/main/Report/Report_Billel_Aissani.pdf)
+**Keywords:** *Benchmarking, GNN vs Feature Engineering, ChemBERT*
+A comprehensive evaluation of Deep Learning limitations on small chemical datasets (BACE, SIDER).
+* **Feature Superiority:** Demonstrated why classic models with strong feature engineering often surpass complex architectures (SVR vs. MLP/GNN) on limited data.
+* **Transfer Learning Limits:** Analyzed the necessity of fine-tuning ChemBERT for specific toxicity tasks.
+* **Optimization:** Applied **Bayesian Optimization** to navigate chemical space effectively.
+
+#### 🧬 **PIK3CA Mutation Detection (Owkin Challenge)**
+**Keywords:** *Computational Pathology, Multiple Instance Learning (MIL)*
+* Implemented Weakly Supervised Learning (MIL) on Whole-Slide Images (WSI) to predict genetic mutations from histopathology slides.
 
 ---
 
@@ -14,14 +51,6 @@ This analysis provides a critical perspective on:
 * **Feature Superiority:** Why classic models with strong feature engineering surpass complex Deep Learning on small datasets (SVR vs. MLP on BACE).
 * **Transfer Learning Limits:** The necessity of fine-tuning ChemBERT for specific toxicity tasks, despite showing specialized gains.
 * **Identified Limitations:** Practical constraints related to GPU access and dataset size.
-
-➡️ **[View Full Critical Analysis (PDF)](https://github.com/geekela/Chemoinformatics_project/blob/main/Report/Report_Billel_Aissani.pdf)**
-
----
-
-### Other Projects & Challenges
-
-I enjoy taking on data science challenges. You can check out my other projects, including my participation in the PIK3CA mutation detection challenge with Owkin where I implemented Multiple Instance Learning (MIL) on Histopathology slides.
 
 <p align="center"> <a href="https://billelassn.github.io/Web-site/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Blog-1DA1F2?style=for-the-badge" alt="Visit My Blog"> </a> <a href="https://github.com/geekela/Chemoinformatics_project" target="_blank"> <img src="https://img.shields.io/badge/View%20My%20Last%20Project-28A745?style=for-the-badge" alt="View My Last Project"> </a> </p>
 
