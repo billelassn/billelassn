@@ -3,23 +3,7 @@
 **M.Eng (Mines Saint-Étienne) | M.Sc. Candidate (Université PSL)**
 
 I am an engineer graduated from Mines Saint-Étienne and Université Paris Dauphine - PSL, currently specializing in AI for healthcare within the **Health Sciences & Technologies (ST4H)** Research Master's at Université PSL.
-
-Starting March 2025, I will join the **Genome Institute of Singapore (A*STAR)** as a Visiting Research Student in the **AI in Genomics Lab of Prof. Mile Šikić**.
-
-### Research Focus
-* **Generative Biology:** Discrete Diffusion Models, Protein-Conditioned mRNA Design.
-* **Clinical Sequence Modeling:** Transformers for Electronic Health Records (EHR) and time-series analysis.
-* **Chemoinformatics:** Geometric Deep Learning, Bayesian Optimization, and Drug Design.
-
----
-
-### Upcoming Research (A*STAR)
-**Prot2RNA: Protein-Conditioned mRNA Design**
-*Supervisors: Ivona Martinovic & Prof. Mile Šikić*
-
-Addressing the synonymous codon optimization challenge to improve mRNA stability and translation efficiency using **Generative AI (Discrete Diffusion)**.
-* **Objective:** Design mRNA sequences that respect both target protein constraints and biological stability metrics (thermodynamics, secondary structure).
-* **Focus:** Moving beyond naive frequency matching by incorporating physics-based guidance into the diffusion process.
+I am currently a Research Intern at the Genome Institute of Singapore (A*STAR), working on Prot2RNA, a Diffusion Language Model for Protein-Conditioned mRNA coding sequence generation
 
 ---
 
