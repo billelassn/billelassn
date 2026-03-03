@@ -3,6 +3,7 @@
 **M.Eng (Mines Saint-Étienne) | M.Sc. Candidate (Université PSL)**
 
 I am an engineer graduated from Mines Saint-Étienne and Université Paris Dauphine - PSL, currently specializing in AI for healthcare within the **Health Sciences & Technologies (ST4H)** Research Master's at Université PSL.
+
 I am currently a Research Intern at the Genome Institute of Singapore (A*STAR), working on Prot2RNA, a Diffusion Language Model for Protein-Conditioned mRNA coding sequence generation
 
 ---
